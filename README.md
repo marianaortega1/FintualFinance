@@ -202,11 +202,19 @@ FINTUALFINANCE("equity", "2,3", "2021-01-17")
 ### Chilean Fund Attributes
 **Attributes that can't be consulted with optional parameters**
 
-![](https://drive.google.com/file/d/19wtRaphUl8ZBWKPdaWNsTNKVxiWgh3iN/view?usp=sharing)
+![Alt text](images/basic_consults.png)
 
+![Alt text](images/conceptual_asset_list.png)
+
+![Alt text](images/conceptual_assets.png)
+
+![Alt text](images/search.png)
 
 **Attributes that can be consulted with optional parameters**
 
-### Mutual & Investment Funds
+![Alt text](images/optional_parameters.png)
 
-### Mutual FUnds
+### Mutual & Investment Funds
+![Alt text](images/mutual_and_investment.png)
+### Mutual Funds
+![Alt text](images/mutual.png)
